@@ -1,0 +1,39 @@
+
+
+	Design Patterns
+
+
+
+
+
+  Book (24 oct 1994):
+
+    • Design Patterns: Elements of Reusable Object-Oriented Software
+      or Gang of Four (GoF)
+
+
+
+  What is a design pattern and who are the Gang of Four?
+
+    • A design pattern is a general, reusable solution to a commonly occuring problem in software engineering.
+
+
+
+  There are 3 types of design patterns patterns (that contain 23 design patterns):
+
+ 	1. Creational - used to create objects 
+	2. Structural - used for relationships between objects
+	3. Behavioral - used to define how objects interact
+
+
+
+
+
+
+
+
+
+
+
+
+

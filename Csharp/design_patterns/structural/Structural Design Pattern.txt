@@ -1,0 +1,59 @@
+
+
+	Structural Design Pattern
+
+
+
+
+
+  What is a structural design pattern?
+
+    • Structural design patterns define the relationships between objects.
+
+    • They help to ensure that even if one part changes, the entire structure of the code doesn't need to change.
+
+    • Structural design patterns focus on Inheritance, which is a primary component of structural design patterns.
+
+    • Structural design patterns allow us to compose objects in different ways to create new functionality.
+
+
+
+
+  There are 7 structural design patterns:
+
+    1. Adapter
+	• The adapter pattern allows for two classes that are not compatible to work together by using an interface with one of the existing classes.
+
+
+    2. Bridge
+	• The bridge pattern decouples two classes so that they can vary independent.
+
+
+    3. Composite
+	• The composite design pattern takes a group of objects and combines them into a single object.
+
+
+    4. Decorator
+	• The decorator pattern lets an object's behavior get extended at run time.
+
+
+    5. Façade
+	• The façade design pattern provides a simple interface allowing us to work with a more complex object that the interface works with.
+
+
+    6. Flyweight
+	• The flyweight pattern reduces the overhead of creating complex object models.
+
+
+    7. Proxy
+	• The proxy pattern provides a placeholder interface aimed at controlling access, reducing cost, or lessening complexity.
+
+
+
+
+
+
+
+
+
+

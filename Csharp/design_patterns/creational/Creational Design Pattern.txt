@@ -1,0 +1,76 @@
+
+
+	Creational Design Pattern
+
+
+
+
+  What is a creational design pattern?
+
+   • Creational design patterns are used to create objects.
+
+
+    • It is important to use the pattern that best fits the needs of the
+situation.
+
+
+
+
+  There are 2 main ideas in creational design patterns:
+    1- Encapsulation
+    2- Hiding how instances of these classes are created and combined
+
+
+
+
+  Strive to seperate a system for creating, composing, and representing objects.
+
+
+
+
+  There are 5 Types of Creational Design Patterns:
+
+    1. Abstract Factory
+	• The abstract factory pattern lets us create objects without specifying their type.
+
+
+    2. Builder
+	• The builder pattern facilitates the
+creation of complex objects.
+
+
+    3. Factory Method
+	• The factory method pattern creates objects without specifying the exact classes to create.
+
+
+    4. Prototype
+	• The prototype pattern creates a new object from an object that already exists.
+
+
+    5. Singleton
+	• The singleton pattern ensures that only one instance of an object is created and exists in the app at any one time.
+
+
+
+
+
+
+
+
+	ROMANA
+
+=============================================================================================================================
+
+
+=============================================================================================================================
+
+
+
+
+
+
+
+
+
+
+

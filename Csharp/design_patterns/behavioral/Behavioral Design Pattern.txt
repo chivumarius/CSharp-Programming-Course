@@ -1,0 +1,73 @@
+
+
+	Behavioral Design Pattern
+
+
+
+
+  What is a behavioral design pattern?
+
+    • Help to define how objects interact 
+
+    • Increase the flexibility in the communication between objects
+
+    • Focus on assigning responsibilities between objects
+
+    • Focus on the way that objects are interconnected
+
+
+
+﻿
+
+  There are 11 types of behavioral design patterns:
+
+    1. Chain of Responsibility
+  	• The chain of responsibility pattern delegates commands to a chain of objects that process those commands.
+
+
+    2. Command
+	• The command pattern creates objects that
+encapsulate actions and parameters.
+
+
+    3. Interpreter
+	• The Interpreter Design Pattern is a design pattern that allows the interpretation and evaluation of expressions or languages defined by objects.
+
+
+    4. Iterator
+	• The iterator pattern lets us access the elements of an object in sequence without having to expose the underlying representation of the object.
+
+
+    5. Mediator
+	• The mediator pattern provides loose coup between classes by ensuring that only mediator class has detailed knowledge of methods.
+
+
+    6. Memento
+	• The memento pattern lets us restore an object to its previous state.
+
+
+    7. Observer
+	• The observer pattern allows us to allow observer objects to subscribe to events sent by an observable.
+
+
+    8. State
+	• The state pattern lets an object alter behavior when it's internal state changes.
+
+
+    9. Strategy
+	• The strategy pattern lets the program select which algorithm to use from several choices at runtime.
+
+
+    10. Template Method
+	• The template method pattern lays out the skeleton of an algorithm using an abstract class, allowing its subclasses to define its behavior.
+
+
+    11. Visitor
+	• The visitor pattern moves the hierarchy of methods into one object, separating an algorithm from the object structure.
+
+
+
+
+
+
+
